@@ -1,3 +1,3 @@
 # Musindi
 
-### Se creó una one page utilizando únicamente HTML5 y CSS3.
+### Se creó una one page resposive, utilizando únicamente HTML5 y CSS3.
